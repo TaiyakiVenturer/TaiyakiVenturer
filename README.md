@@ -50,7 +50,7 @@
 
 **技術亮點 | Key Technologies:**
 - 🔍 MinerU 引擎高精度 PDF 內容提取
-- �� ChromaDB 向量資料庫 + RAG 系統
+- 🧠 ChromaDB 向量資料庫 + RAG 系統
 - 🌐 多語言翻譯支援
 - 🎨 Electron + Flask 前後端分離架構
 

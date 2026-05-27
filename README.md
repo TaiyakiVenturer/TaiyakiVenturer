@@ -35,10 +35,10 @@
 
 ## 📂 專案展示 | Featured Projects
 
-### 🤖 [PDFHelper](https://github.com/TaiyakiVenturer/PDFHelper)
+### 🤖 [PDFHelper_v2](https://github.com/TaiyakiVenturer/PDFHelper_v2)
 **智能PDF處理與分析系統 | AI-powered PDF Processing and Analysis System**
 
-[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/TaiyakiVenturer/PDFHelper)
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/TaiyakiVenturer/PDFHelper_v2)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat-square)
 
